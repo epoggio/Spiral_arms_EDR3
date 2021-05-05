@@ -1,6 +1,6 @@
 # Spiral_arms_EDR3
 
-This Jupyter Notebook generates overdensity maps using Upper Main Sequence (UMS) stars and Cepheids, following [Poggio et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021arXiv210301970P/abstract).
+This Jupyter Notebook generates overdensity maps using Upper Main Sequence (UMS) stars and Cepheids in the Galactic disk, following [Poggio et al. (2021)](https://ui.adsabs.harvard.edu/abs/2021arXiv210301970P/abstract).
 
 # Basic usage
 
